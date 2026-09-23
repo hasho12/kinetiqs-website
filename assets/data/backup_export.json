@@ -1,0 +1,11 @@
+{
+  "_notice": "Illustrative concept only. Not a valid FitTrack90 import.",
+  "format": "kinetiqs-demo",
+  "version": 1,
+  "app": "FitTrack90",
+  "data": {
+    "habits": [{"name": "Evening walk", "completed": true}],
+    "hydration": {"unit": "ml", "sample_total": 1500},
+    "notes": "Fictional sample records. No personal information."
+  }
+}
